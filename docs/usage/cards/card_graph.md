@@ -39,7 +39,7 @@ The `card_graph` shows an entity with the actual state and a *min-graph-card* in
       ulm_card_graph_name: Temperature Livingroom
       ulm_card_graph_entity: sensor.livingroom_temperature
       ulm_card_graph_color2: "var(--google-green)"
-      ulm_card_graph_entity2: sensor.bedgroom_temperature
+      ulm_card_graph_entity2: sensor.bedroom_temperature
       ulm_card_graph_type: fill
       ulm_card_graph_hours: 24
       ulm_card_graph_group_by: interval
